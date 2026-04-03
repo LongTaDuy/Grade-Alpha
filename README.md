@@ -113,14 +113,12 @@ Forecasts are for entertainment, reflection, and portfolio storytelling. Don’t
 
 ---
 
-## 🔔 Closing Bell — *after-hours appendix*
+## End-of-Semester Signal
 
 <div align="center">
 
-![When your GPA and your portfolio both need a candlestick](./fun.gif)
+![fun](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTMyY2ZzMGE2ZHhzbmthOWlnNWx5ZDU4OGw5YTVta2Fqb2J2MmljMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zp3MTmoxiBpav8SaNv/giphy.gif)
 
-**Caption:** *“Diversified portfolio: equities, bonds, and whatever that midterm just did to your thesis.”*
+*Bullish… assuming you actually study.*
 
 </div>
-
-*GIF: `./fun.gif` — swap in your own loop when ready. The meme potential is **priced in**.*
